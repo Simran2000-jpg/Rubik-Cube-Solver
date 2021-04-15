@@ -10,3 +10,5 @@ Developed and designed a Rubik Cube Solver using Python as the programming langu
 
 **Wow Factor:**
 The user can solve and unveil the hidden mystery of the Rubik's Cube through this automated Robotic project. Adding on to it, this project is also a step by step tutorial guide for the people who want to actually learn how to solve the Rubik's cube. A person can solve Rubik's cube manually as well as virtually by following the simple guiding rules of this project. Thus, the project can serve both as a Automated Robotic Solver as well as a manual tutorial guide for solving Rubik's cube in the long run.
+
+![Img1](Screenshot (230).png) ![Img2](Screenshot (231).png) 
