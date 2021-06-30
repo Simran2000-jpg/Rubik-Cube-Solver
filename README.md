@@ -18,3 +18,5 @@ The user can solve and unveil the hidden mystery of the Rubik's Cube through thi
 ![Screenshot (229)](https://user-images.githubusercontent.com/59932005/114822186-4f61a800-9ddf-11eb-9c63-f253e2441256.png)
 
 
+
+
